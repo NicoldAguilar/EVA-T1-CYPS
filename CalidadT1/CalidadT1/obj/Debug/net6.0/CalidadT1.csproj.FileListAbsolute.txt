@@ -1,0 +1,15 @@
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.exe
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.deps.json
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.runtimeconfig.json
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.dll
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\bin\Debug\net6.0\CalidadT1.pdb
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.AssemblyReference.cache
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.GeneratedMSBuildEditorConfig.editorconfig
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfoInputs.cache
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.AssemblyInfo.cs
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.csproj.CoreCompileInputs.cache
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.dll
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\refint\CalidadT1.dll
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.pdb
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\CalidadT1.genruntimeconfig.cache
+D:\UPN\8. OCTAVO CICLO\CALIDAD Y PRUEBAS DE SOFTWARE\EVA-T1\EVA-T1-CYPS\CalidadT1\CalidadT1\obj\Debug\net6.0\ref\CalidadT1.dll
